@@ -31,8 +31,6 @@ public class MainActivity extends AppCompatActivity {
         @Override
         public boolean shouldOverrideUrlLoading(WebView view, String url) {
             return false;
-        }
-
-        
+        }  
     }
 }
